@@ -9,6 +9,8 @@ def go():
     locationX = 50
     locationY = 50
 
+    pg.init()
+
     #initialize pygame
     pg.fastevent.init()
 
